@@ -1,0 +1,14 @@
+Script started on 2017年03月15日 (週三) 20時25分52秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m whoami; pwd
+pd2vm
+/home/pd2vm
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m  git config -l
+user.email=scottwang87329@gmail.com
+user.name=scottwang87329
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m  git clone https://github.com/scottwang87329/lab1.git [A
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m exit
+
+Script done on 2017年03月15日 (週三) 20時27分18秒
